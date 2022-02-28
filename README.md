@@ -24,6 +24,28 @@ A README should also be included with the following content:
 * Python function to solve a Countdown Numbers Game.
 * Explanation of the functional aspects of the code
 
+# How to run notebooks locally
+To run this repository on your local machine, follow these steps:
+* Install Anaconda3 onto your machine. A link to the Anaconda website is given [here](https://www.anaconda.com/products/individual)
+* Run this command in a new terminal to install jupyter lab:
+``` 
+conda install -c conda-forge jupyterlab
+```
+* Clone this repository by copying this [Github repository link](https://github.com/johngroves1/Theory-of-Algorithms)
+* Open the cloned folder of this repository
+* Open a terminal in this folder
+* Run the notebooks with the following command
+``` 
+  run jupyter lab
+```
 
+## Quick steps
+Alternatively you can view the notebook in static or dynamic form by clicking the following:
+
+* Post Correspondence Problem Notebook
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johngroves1/Theory-of-Algorithms/blob/main/post-correspondence.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johngroves1/Theory-of-Algorithms/199d4c69b2503e93b565f21a56ec90be3a6d0a68)
+
+* Countdown Numbers Game Notebook
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johngroves1/Theory-of-Algorithms/blob/main/countdown.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johngroves1/Theory-of-Algorithms/199d4c69b2503e93b565f21a56ec90be3a6d0a68)
 
 
