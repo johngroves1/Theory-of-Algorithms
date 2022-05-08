@@ -43,9 +43,17 @@ conda install -c conda-forge jupyterlab
 Alternatively you can view the notebook in static or dynamic form by clicking the following:
 
 * Post Correspondence Problem Notebook
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johngroves1/Theory-of-Algorithms/blob/main/post-correspondence.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johngroves1/Theory-of-Algorithms/199d4c69b2503e93b565f21a56ec90be3a6d0a68)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johngroves1/Theory-of-Algorithms/blob/main/post-correspondence.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johngroves1/Theory-of-Algorithms/6bc0e690eb722f07d83d53412e805a817b674134)
 
 * Countdown Numbers Game Notebook
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johngroves1/Theory-of-Algorithms/blob/main/countdown.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johngroves1/Theory-of-Algorithms/199d4c69b2503e93b565f21a56ec90be3a6d0a68)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johngroves1/Theory-of-Algorithms/blob/main/countdown.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johngroves1/Theory-of-Algorithms/6bc0e690eb722f07d83d53412e805a817b674134)
 
 
+## References
+1. https://en.wikipedia.org/wiki/Post_correspondence_problem
+2. https://en.wikipedia.org/wiki/Undecidable_problem
+3. https://en.wikipedia.org/wiki/Countdown_(game_show)
+4. https://realpython.com/python-functional-programming/
+5. https://docs.python.org/3/library/itertools.html
+6. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+7. https://github.com/badges/shields
